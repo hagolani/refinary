@@ -1,6 +1,6 @@
 def say_hello():
-#khlliyh
 
 
-        print("good night!")
+
+        print("good night or day!")
 
